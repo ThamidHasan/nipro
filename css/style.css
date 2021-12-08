@@ -483,11 +483,11 @@ header{
 .rl{
     writing-mode: vertical-rl;
 }
-.carousel-control-prev, .carousel-control-next {
+.c_button {
     right: 12px;
     bottom: 16px;
     justify-content: end;
-    width: 105%;
+    width: 104%;
 }
 .cbp_1{
     align-items: start;
