@@ -1,0 +1,180 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+/*Header Start*/
+.c_dm {
+    left: -16px !important;
+    min-width: 300px;
+    padding: 10px;
+    margin-top: 11px !important;
+    margin-top: 14px !important;
+}
+/*Slider Start*/
+.s_content {
+    margin: 50px 0;
+}
+.s_content h2 {
+    font-size: 25px;
+    margin-bottom: 20px;
+}
+.s_content p {
+    margin-bottom: 20px;
+}
+.cbp {
+    left: -12px;
+}
+.cbn {
+    left: 40px;
+}
+/*Services Start*/
+.c_h1 {
+    font-size: 20px;
+    font-weight: 500;
+}
+.c_p p {
+    margin-bottom: 50px;
+}
+.s_single {
+    margin-bottom: 25px;
+}
+/*About Start*/
+.about {
+    padding: 30px 0;
+}
+.about_text h1 {
+    font-size: 20px;
+}
+.about_text {
+    margin: 0;
+    text-align: center;
+}
+.about_text p {
+    margin: 20px 0;
+}
+
+}
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+/*Header Start*/
+.c_dm {
+    left: -16px !important;
+    min-width: 300px;
+    padding: 10px;
+    margin-top: 11px !important;
+    margin-top: 14px !important;
+}
+/*Slider Start*/
+.s_content {
+    margin: 70px 0;
+}
+.s_content h2 {
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+.s_content p {
+	margin-bottom: 40px;
+}
+/*Services Start*/
+.c_h1 {
+    font-size: 25px;
+}
+.c_p p {
+    margin-bottom: 70px;
+}
+.s_single {
+    margin-bottom: 25px;
+}
+/*About Start*/
+.about {
+    padding: 70px 0;
+}
+.about_text h1 {
+    font-size: 25px;
+}
+.about_text {
+    margin: 0;
+    text-align: center;
+}
+.about_text p {
+    margin: 20px 0;
+}
+
+}
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+/*Header Start*/
+.c_dm {
+    left: -16px !important;
+    min-width: 300px;
+    padding: 10px;
+    margin-top: 11px !important;
+    margin-top: 14px !important;
+}
+/*Slider Start*/
+.s_content h2 {
+    font-size: 50px;
+    margin-bottom: 40px;
+}
+.s_content p {
+	margin-bottom: 40px;
+}
+/*Services Start*/
+.c_h1 {
+    font-size: 25px;
+}
+.c_p p {
+    margin-bottom: 70px;
+}
+.s_single {
+    margin-bottom: 25px;
+}
+/*About Start*/
+.about {
+    padding: 70px 0;
+}
+.about_text h1 {
+    font-size: 25px;
+}
+.about_text {
+    margin: 0;
+    text-align: center;
+}
+.about_text p {
+    margin: 20px 0;
+}
+
+}
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+/*Slider Start*/
+.s_content h2 {
+    font-size: 50px;
+    margin-bottom: 40px;
+}
+.s_content p {
+	margin-bottom: 40px;
+}
+/*About Start*/
+.about_text {
+    margin: 0;
+}
+.about_text p {
+    margin: 35px 0;
+}
+
+
+}
+
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+
+	
+}
+
+/*Extra extra large devices (large desktops, 1400px and up)*/
+@media (min-width: 1400px) {
+
+
+}
